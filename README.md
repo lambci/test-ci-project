@@ -1,4 +1,4 @@
-# use this repo to test the CI system
+# use this repo to test the beedo CI system
 
 
 
