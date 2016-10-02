@@ -1,3 +1,3 @@
 module.exports = {
-  cmd: './build_me.sh'
+  cmd: 'ls -la'
 }
