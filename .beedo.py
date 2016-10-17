@@ -20,5 +20,4 @@ def red(text):
     return '\033[91m %s\033[00m' % text
 
 
-print('Hello ' + red('colored') + ' wourld!')
-
+print('Hello ' + red('colored') + ' world!')
